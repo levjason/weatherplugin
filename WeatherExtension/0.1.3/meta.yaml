@@ -1,0 +1,11 @@
+id: WeatherExtension
+version: 0.1.3
+type: VS Code extension
+name: VSCode-Weather_Extension
+title: VSCODE-Weather-Extension
+description: VS Code extension wrapped in a Che Plug-in
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+url: https://marketplace.visualstudio.com/_apis/public/gallery/publishers/AndrewMoll/vsextensions/WeatherExtension/0.1.3/vspackage
+publisher: AndrewMoll
+category: Other
+firstPublicationDate: "2015-12-08"
